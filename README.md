@@ -18,6 +18,7 @@ Notebook : https://www.kaggle.com/code/vyslon/australia-house-prices
   <li>Stacking</li>
   <li>Feature Engineering</li>
   <li>Grid Search</li>
+  <li>Cross-validation</li>
 </ul>
 
 [challenge]: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
